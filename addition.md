@@ -4,7 +4,7 @@
 
 - Given : Working calculator.
 - When : Enter the two positive numbers with a addition operator in between.
-- Then : Display the result of the additon.
+- Then : Display the result of the addition.
 
 ## Scenario : Addition of two negative numbers
 
