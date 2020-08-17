@@ -1,17 +1,7 @@
 # Addition
 
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
+## Scenario : Addition of two positive numbers
 
-  When (state the event)
-  
-  Then (state the effect)
-
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
-  
-  When (state the event)
-  
-  Then (state the effect)
+Given : Working calculator.
+When : Enter the two positive numbers with a adddition sign/operator in between.
+Then: Display the result of the additon.
