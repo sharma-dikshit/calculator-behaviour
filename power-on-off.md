@@ -2,8 +2,8 @@
 
 ## Scenario : Power on the calculator
 
-- Given : The calculator is off
-- When : We press the "on/off" button 
+- Given : The calculator is off.
+- When : We press the "on/off" button.
 - Then : The screen sets to "zero".
 
 ## Scenario : Power off the calculator
