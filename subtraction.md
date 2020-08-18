@@ -1,4 +1,4 @@
-# Subtaction
+# Subtraction
 
 ## Subtraction of two positive numbers
 
@@ -17,7 +17,7 @@
 ## Subtraction of positive and negative number
 
 - Given : A working calculator.
-- When : Enter a postive number then the minus operator and then
+- When : Enter a positive number then the minus operator and then
   a negative number and then press ans.
 - Then : Display the result of the subtraction.
 
