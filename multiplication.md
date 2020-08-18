@@ -26,14 +26,14 @@
 - Given : Working calculator.
 - When : Enter the first number then the multiply operator and then
   enter zero and then press ans.
-- Then : Display the result of the multiplication i.e. zero.
+- Then : Display the result of the multiplication (zero).
 
 ## Scenario : Multiplication with one
 
 - Given : Working calculator.
 - When : Enter the first number then the multiply operator and then
   enter 1 and then press ans.
-- Then : Display the result of the multiplication i.e. the first number.
+- Then : Display the result of the multiplication (the first operand).
 
 ## Scenario : Decimal value multiplication
 
@@ -42,7 +42,7 @@
   the second decimal number and then press ans.
 - Then : Display the result of the multiplication.
 
-## Scenario : Irrational multiplicaion
+## Scenario : Irrational multiplication
 
 - Given : Working calculator.
 - When : Enter the first irrational number then the multiply operator and then
