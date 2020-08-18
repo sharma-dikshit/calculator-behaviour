@@ -69,8 +69,9 @@
 ## Scenario : Complex number multiplication
 
 - Given : Working calculator.
-- When : Switch to complex number multiplication mode. Enter the first complex number then the multiply operator and then
-  the second complex number and then press ans.
+- When : Switch to complex number multiplication mode. Enter the first complex
+ number then the multiply operator and then the second complex
+ number and then press ans.
 - Then : Display the result of the multiplication.
 
 ## Scenario : Decimal value capping
@@ -80,4 +81,3 @@
   the second decimal number and then press ans.
 - Then : Display the result of the multiplication with n digits after
   the decimal point.
-  
