@@ -64,7 +64,7 @@
 - Then : Display "divided number" as the intermediate result.
 - When : Again press "division" operator, then enter third "number",
  then press "equal".
-- Then : Use intermediate result as first number and add third number with 
+- Then : Use intermediate result as first number and add third number with
   this as second number and display the final "divided number" as result.
 
 ## Scenario : Division of any/all operands being fractions
