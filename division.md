@@ -1,6 +1,6 @@
 # Division
 
-## Scenario : Division by zero.
+## Scenario : Division by zero
 
 - Given : A working calculator.
 - When : Enter the first number and then the division operator
@@ -59,10 +59,13 @@
 ## Scenario : Division of more than two number
 
 - Given : A working calculator.
-- When : Enter first "number", and enter "division" operator, and then enter second "number", and press "equals".
+- When : Enter first "number", and enter "division" operator, and then
+ enter second "number", and press "equals".
 - Then : Display "divided number" as the intermediate result.
-- When : Again press "division" operator, then enter third "number", then press "equal".
-- Then : Use intermediate result as first number and add third number with this as second number and display the final "divided number" as result.
+- When : Again press "division" operator, then enter third "number",
+ then press "equal".
+- Then : Use intermediate result as first number and add third number with 
+  this as second number and display the final "divided number" as result.
 
 ## Scenario : Division of any/all operands being fractions
 
@@ -70,6 +73,3 @@
 - When : Enter the first number/fractiom and then the division operator,
   then enter the second number/fraction and then press ans.
 - Then : Display result of the division.
-
-
-
