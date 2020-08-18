@@ -46,7 +46,7 @@
 
 - Given : A working calculator.
 - When : Enter the first number and then the division operator
-  and then division operator agin and then the second number and then press ans.
+  and then division operator again and then the second number and then press ans.
 - Then : Display the result of the division.
 
 ## Scenario : Second operand not present
@@ -70,6 +70,6 @@
 ## Scenario : Division of any/all operands being fractions
 
 - Given : A working calculator.
-- When : Enter the first number/fractiom and then the division operator,
+- When : Enter the first number/fraction and then the division operator,
   then enter the second number/fraction and then press ans.
 - Then : Display result of the division.
